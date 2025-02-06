@@ -138,4 +138,3 @@ These tools help you verify the structure and flow of your webhook payloads befo
 
 ---
 
-This updated documentation improves clarity, adds structured tables, enhances filtering examples, and includes webhook testing tools for better debugging. 🚀
